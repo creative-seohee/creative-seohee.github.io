@@ -9,7 +9,7 @@ We used [ChatGPT](https://chat.openai.com/) to debug it.
 
 ### Video Demo
 
-<video src="video/domino.mp4" width="400px" controls>
+<video src="video/domino.mp4" width="300px" controls>
 </video>
 
 
