@@ -5,6 +5,11 @@
 Today, my dad and I created a domino simulation with [pymunk](https://www.pymunk.org/en/latest/).
 
 We used [ChatGPT](https://chat.openai.com/) to debug it.
+
+### Code
+<details>
+<summary>Click to open</summary>
+
 ```python
 import pymunk
 import pymunk.pygame_util
@@ -66,6 +71,8 @@ while running:
     pygame.display.flip()
     clock.tick(50)
 ```
+
+</details>
 
 ### Video Demo
 
