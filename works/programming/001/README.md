@@ -6,9 +6,14 @@ Today, my dad and I created a domino simulation with [pymunk](https://www.pymunk
 
 We used [ChatGPT](https://chat.openai.com/) to debug it.
 
+
+### Video Demo
+
+<video src="https://creative-seohee.github.io/works/programming/001/video/domino.mp4" width="400px" controls>
+</video>
+
+
 ### Code
-<details>
-    <summary>Click to open</summary>
 
 #### Python
 
@@ -73,11 +78,3 @@ while running:
     pygame.display.flip()
     clock.tick(50)
 ```
-
-</details>
-
-### Video Demo
-
-<video src="https://creative-seohee.github.io/portfolio/works/programming/001/video/domino.mp4" width="400px" controls>
-</video>
-
