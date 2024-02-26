@@ -8,7 +8,9 @@ We used [ChatGPT](https://chat.openai.com/) to debug it.
 
 ### Code
 <details>
-<summary>Click to open</summary>
+    <summary>Click to open</summary>
+
+#### Python
 
 ```python
 import pymunk
