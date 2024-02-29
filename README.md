@@ -5,4 +5,4 @@ Welcome to Seohee's portfolio site.
 * 2024-02-25 [Domino Simulation](works/programming/002/)
 
 ## Artwork
-* More to come!
+* 2024-02-27 [Northern Lights in Alaska](works/art/001)
